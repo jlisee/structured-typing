@@ -1,3 +1,6 @@
+# Author: Joseph Lisee <jlisee@gmail.com>
+# License: BSD (see LICENSE in root)
+
 cmake_minimum_required (VERSION 2.6)
 
 project (structered_typing)

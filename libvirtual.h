@@ -1,3 +1,7 @@
+// Author: Joseph Lisee <jlisee@gmail.com>
+// Copyright (C) 2014 Joseph Lisee
+// License: BSD (see LICENSE in root)
+
 #ifndef VIRTUAL_H
 #define VIRTUAL_H
 

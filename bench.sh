@@ -1,9 +1,11 @@
 #! /bin/bash
 
-#ITERATIONS=100000000000
-ITERATIONS=1000000000 # 2 seconds
-#ITERATIONS=100000000 # 0.6 seconds
-#ITERATIONS=100
+# Author: Joseph Lisee <jlisee@gmail.com>
+# License: BSD (see LICENSE in root)
+
+#ITERATIONS=10000000000 # ~4.5 seconds
+ITERATIONS=1000000000 # ~2 seconds
+#ITERATIONS=100000000 # 0.2 seconds
 
 # Build
 mkdir -p build
